@@ -1,3 +1,4 @@
+## 谷歌浏览器Google Chrome便携版制作
 ### 1.下载Chrome离线版本
 > ##### 1.1.[GitHub 下载](https://github.com/Bush2021/chrome_installer)。<br/>
 > ##### 1.2.官网下载
