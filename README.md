@@ -16,7 +16,7 @@
 
 ### 2.下载[GoogleChromePortable](https://portableapps.com/apps/internet/google_chrome_portable)启动器
 ### 3.解压启动器和离线安装包
-> 3.1.使用解压工具（7-zip）解压启动器，**非打开安装**。<br/>
+> 3.1.使用解压工具（[7-zip](https://www.7-zip.org/)）解压启动器，**非打开安装**。<br/>
 > 3.2.提取**GoogleChromePortable.exe**、**help.html**、**Other\Source\GoogleChromePortable.ini**文件到安装目录。<br/>
 > ![4](/assets/4.png)
 > 3.3.在安装目录新建**App**文件夹。<br/>
@@ -135,15 +135,15 @@ Sub UnregisterChromePortable
 End Sub
 ```
 > 用法：
-> 1.将上述 VBScript 代码复制到记事本，并将文件另存为 chromeportable.vbs。
-> 2.将文件移动到GoogleChromePortable文件夹中，以便其正常工作。
-> 3.双击chromeportable.vbs运行它。
-> 4.键入**REGISTER**并单击OK将Chrome Portable添加到默认应用程序。
-> 5.该脚本会自动启动Default Apps或Default Programs。从列表中选择Google Chrome Portable并将其设置为默认值。
-> 6.要从默认应用程序中删除Google Chrome Portable，请重新运行脚本，键入**UNREGISTER**并单击确定。
+> 1.将上述 VBScript 代码复制到记事本，并将文件另存为chromeportable.vbs。<br/>
+> 2.将文件移动到GoogleChromePortable文件夹中，以便其正常工作。<br/>
+> 3.双击chromeportable.vbs运行它。<br/>
+> 4.键入**REGISTER**并单击OK将Chrome Portable添加到默认应用程序。<br/>
+> 5.该脚本会自动启动Default Apps或Default Programs。从列表中选择Google Chrome Portable并将其设置为默认值。<br/>
+> 6.要从默认应用程序中删除Google Chrome Portable，请重新运行脚本，键入**UNREGISTER**并单击确定。<br/>
 
 > [!TIP] 
-> 文件目录结构为：
+> 文件目录结构为：<br/>
 > 你的安装目录 <br/>
 > |—App <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|—Chrome-bin <br/>
