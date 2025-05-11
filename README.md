@@ -1,5 +1,5 @@
-[!CAUTION]
-本仓库发布的内容仅用于学习和研究目的，不得将本仓库内容用于商业或者非法用途。否则，一切后果由您自行负责。
+> [!CAUTION] 
+> 本仓库发布的内容仅用于学习和研究目的，不得将本仓库内容用于商业或者非法用途。否则，一切后果由您自行负责。
 ## 谷歌浏览器Google Chrome便携版制作
 ### 1.下载Chrome离线版本
 > ##### 1.1.[GitHub 下载](https://github.com/Bush2021/chrome_installer)。<br/>
@@ -28,7 +28,7 @@
 
 ### 4.运行**GoogleChromePortable.exe**
 ### 5.设置为默认浏览器
-> 方法来自作者@winhelponline的文章[**Register Google Chrome Portable with Default Apps or Default Programs**](https://www.winhelponline.com/blog/register-google-chrome-portable-with-default-apps-or-default-programs/)。 以下为运行脚本：
+> 方法来自作者[**@winhelponline**](https://github.com/winhelponline)的文章[**Register Google Chrome Portable with Default Apps or Default Programs**](https://www.winhelponline.com/blog/register-google-chrome-portable-with-default-apps-or-default-programs/)。 以下为运行脚本：
 ```vbscript
 'Registers Google Chrome Portable with Default Programs or Default Apps in Windows
 'chromeportable.vbs - created on May 20, 2019 by Ramesh Srinivasan, Winhelponline.com
@@ -142,8 +142,8 @@ End Sub
 > 5.该脚本会自动启动Default Apps或Default Programs。从列表中选择Google Chrome Portable并将其设置为默认值。
 > 6.要从默认应用程序中删除Google Chrome Portable，请重新运行脚本，键入**UNREGISTER**并单击确定。
 
-[!TIP]
-文件目录结构为：
+> [!TIP] 
+> 文件目录结构为：
 > 你的安装目录 <br/>
 > |—App <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|—Chrome-bin <br/>
